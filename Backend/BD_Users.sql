@@ -1,11 +1,11 @@
 -- Crear la base de datos si no existe
-CREATE DATABASE IF NOT EXISTS Productos;
+CREATE DATABASE Productos;
 
 -- Seleccionar la base de datos
 USE Productos;
 
 -- Crear la tabla Productos
-CREATE TABLE IF NOT EXISTS Productos (
+CREATE TABLE IF NOT EXISTS Productos(
     id INT NOT NULL AUTO_INCREMENT,
     producto VARCHAR(45) NOT NULL,
     precio DECIMAL(10,2) NOT NULL,
