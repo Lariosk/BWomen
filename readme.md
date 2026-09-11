@@ -39,5 +39,5 @@ Proyecto para empresa de cosmeticos. Plataforma de comercio electrónico que  pe
 2. BD
 3. FRAMEWORK
 4. EDITOR
-5. 
+   
 
